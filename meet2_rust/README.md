@@ -147,7 +147,7 @@ $ cd hello_cargo
 第一个命令创建了一个名为`hello_cargo`的新目录。由于我们将项目命名为`hello_cargo`，Cargo 在同名目录中创建其文件。
 
 进入`hello_cargo`目录并列出文件。您会看到 Cargo 为我们生成了两个文件和一个目录：一个`Cargo.toml文件`和一个 `src目录`，其中包含一个`main.rs`文件。
-```toml
+```
 $ tree -L 2
 .
 ├── Cargo.toml
