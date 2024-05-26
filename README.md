@@ -1,22 +1,21 @@
-# Rust 入门系统教程
+# Rust 入门系列课程
 
-## 1. Rust 介绍与环境搭建
+## 1. [Rust 介绍与环境搭建](meet_rust/README.md)
 1. Rust介绍
 2. 环境搭建
 
-## 2. 快速邂逅 Rust 语言
+## [2. 快速邂逅 Rust 语言](meet2_rust/README.md)
 1. Hello, World!
 2. Hello, Cargo!
 3. 编写一个猜数游戏
 
-## 3. 基础知识    
-1. 变量绑定与解构
+## [3. 基础知识](03_basics/README.md) 
+1. 变量与常量
 2. 数据类型的本质
 3. 基本类型
 4. 复合类型
 5. 函数
-6. 格式化输出
-7. 程序控制流
+6. 程序控制流
 
 ## 4. 程序与内存管理
 1. 程序的基本执行流程
@@ -75,7 +74,7 @@
 ## 14. 生命周期
 1. 变量生命周期
 2. 生命周期标注及规则
-3. 生命周期
+3. 生命周期示例代码解析
 
 ## 15. 深入类型
 1. 类型转换
@@ -92,6 +91,11 @@
 2. `Deref` 特证 与 `Drop` 特征 的解析
 3. `Box、Rc、Arc、Weak、Cell、RefCell`等智能指针的使用
 
+
+## 参考资料
+* [《The Rust Programming Language》](https://rustwiki.org/zh-CN/book/title-page.html)
+* [《Rust by Example》](https://rustwiki.org/zh-CN/rust-by-example/index.html)
+* [《Rust 语言圣经》](https://course.rs/about-book.html)
 
 
 
