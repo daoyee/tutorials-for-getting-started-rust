@@ -1,0 +1,1 @@
+/Users/mjsong/rust_tutorial/tutorials-for-getting-started-rust/meet2_rust/hello_world/target/debug/hello_world: /Users/mjsong/rust_tutorial/tutorials-for-getting-started-rust/meet2_rust/hello_world/src/main.rs

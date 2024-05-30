@@ -1,0 +1,1 @@
+/Users/mjsong/rust_tutorial/tutorials-for-getting-started-rust/03_basics/data_type/target/debug/data_type: /Users/mjsong/rust_tutorial/tutorials-for-getting-started-rust/03_basics/data_type/src/main.rs
